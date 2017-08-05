@@ -1,0 +1,5 @@
+---
+
+region: eu-west-1
+bucket_region: eu-west-1
+target_bucket: example-logs
