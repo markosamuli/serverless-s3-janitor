@@ -22,3 +22,7 @@ var/
 
 # Serverless directories
 .serverless
+
+# Config files
+janitor.*.yml
+!janitor.example.yml
